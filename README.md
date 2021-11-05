@@ -1,2 +1,2 @@
 # hello-world
-Toto je můj první depositář tvořím ho v 2. ročníku SSOŠ 1.KŠPA v Litoměřicích 
+This is my first depository in the 2nd year of SSOŠ 1.KŠPA in Litoměřice
